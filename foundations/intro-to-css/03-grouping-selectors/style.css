@@ -1,0 +1,12 @@
+#element1 {
+  background-color: black;
+  color: white;
+}
+#element2 {
+  background-color: yellow;
+}
+#element1,
+#element2 {
+  font-size: 28px;
+  font: "helvetica", "times-new-roman", "sans-serif";
+}
